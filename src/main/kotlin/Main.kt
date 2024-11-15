@@ -177,3 +177,6 @@ fun main () {
 //////        println(it)
 //////    }
 ////}
+fun newFunc() {
+    TODO()
+}

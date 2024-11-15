@@ -182,3 +182,7 @@ fun main () {
 fun foo(){
     println("hi")
 }
+
+fun newFunc() {
+    TODO()
+}

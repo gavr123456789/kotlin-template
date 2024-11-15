@@ -177,3 +177,8 @@ fun main () {
 //////        println(it)
 //////    }
 ////}
+
+
+fun foo(){
+    println("hi")
+}
